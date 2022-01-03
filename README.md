@@ -1,7 +1,10 @@
 # Final_Project Proposal
-Group Number: 3
-Group Name - ____
-Group Members:
+
+Group Number: 3 
+
+Group Name -
+
+#### Group Members:
 - srah
 - asmaa
 - shrouq
@@ -9,14 +12,18 @@ Group Members:
 - amani
 - rawan 
 
-Project: ___
+### Project:
+___
 
-What is your project?
+### What is your project?
 
-What is required in order to complete your project?
 
-Goals:
+___
+### What is required in order to complete your project?
+
+___
+### Goals:
 ...
-
-Presentation Time Estimate:
+___
+### Presentation Time Estimate:
 ___ + Q/A
