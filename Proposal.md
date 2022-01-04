@@ -22,7 +22,7 @@ ___
 
 1. Selection and ٍget data (3H), from kaggle (lending club data): Shrouq , Asmaa, Sarah.
 
-2. EDA: exploring the data (3H), Using Pandas: Rawan, amani, khalid.
+2. EDA: exploring the data (3H), Using Pandas: Rawan, Amani, khalid.
 
 3. Visualization (3H), Using Pandas: Sarah, Amani, Asmaa.
 
